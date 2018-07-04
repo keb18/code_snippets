@@ -1,0 +1,123 @@
+{
+  "company": [
+    "5b316e6ca7caed31880f7fac"
+  ],
+  "projects": [
+    "5b317f182f6c482b5ca3022f",
+    "5b317fab2f6c482b5ca30232",
+    "5b317fe72f6c482b5ca30233",
+    "5b32af53d19cc61bb422d14e"
+  ],
+  "timesheets": [
+    {
+      "timesheetDate": "28.05.2018",
+      "status": "open",
+      "timesheet": [
+        {
+          "projectId": "5b32af53d19cc61bb422d14e",
+          "projectNumber": "2018",
+          "projectName": "Project 45",
+          "description": "fead2ffewf2",
+          "time": 14
+        },
+        {
+          "projectId": "5b32af53d19cc61bb422d14e",
+          "projectNumber": "2018",
+          "projectName": "Project 21",
+          "description": "adadsa",
+          "time": 35
+        }
+      ]
+    },
+    {
+      "timesheetDate": "28.06.2018",
+      "status": "open",
+      "timesheet": [
+        {
+          "projectId": "5b32af53d19cc61bb112d14e",
+          "projectNumber": "2/5511",
+          "projectName": "Project 1123",
+          "description": "f1f1f1f1",
+          "time": 5
+        },
+        {
+          "projectId": "5b32af5151519cc61bb422d14e",
+          "projectNumber": "2/6631",
+          "projectName": "Project 1211",
+          "description": "d2qdada",
+          "time": 18
+        }
+      ]
+    },
+    {
+      "timesheetDate": "28.07.2018",
+      "status": "closed",
+      "timesheet": [
+        {
+          "projectId": "5b32af53d19cc61bb112d14e",
+          "projectNumber": "2/2218",
+          "projectName": "Project 135",
+          "description": "h2hjjhg",
+          "time": 5
+        },
+        {
+          "projectId": "5b32af5151519cc61bb422d14e",
+          "projectNumber": "2/9361",
+          "projectName": "Project 125",
+          "description": "gjj2g2",
+          "time": 18
+        }
+      ]
+    },
+    {
+      "timesheetDate": "28.08.2018",
+      "status": "closed",
+      "timesheet": [
+        {
+          "projectId": "5b32af53d19cc61bb112d14e",
+          "projectNumber": "2/7215",
+          "projectName": "Project 111",
+          "description": "g1gggfa",
+          "time": 5
+        },
+        {
+          "projectId": "5b32af5151519cc61bb422d14e",
+          "projectNumber": "2/3215",
+          "projectName": "Project 121",
+          "description": "gg2g11",
+          "time": 18
+        }
+      ]
+    }
+  ],
+  "_id": "5b316e6ca7caed31880f7fab",
+  "username": "bratosvan",
+  "firstName": "Vanessa",
+  "lastName": "Bratosin",
+  "email": "bratosvan@gmail.com",
+  "accountType": "owner",
+  "position": "manager",
+  "userJoined": "2018-06-25T22:36:28.262Z",
+  "__v": 13
+}
+
+
+{
+  "email": "plm@plm.com",
+  "password": "plm",
+  "books": [
+    {
+      "cover": "Cover1",
+      "title": "Title1",
+      "link": "link1" },
+    {
+      "cover": "Cover2",
+      "title": "Title2",
+      "link": "link2" },
+    {
+      "cover": "Cover3",
+      "title": "Title3",
+      "link": "link3" }
+  ],
+  "ip": "192.168.254.1"
+  };
