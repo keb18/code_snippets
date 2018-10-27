@@ -5,4 +5,11 @@ async function removeDatePicker() {
   });
   await promise;
 }
-
+//=====================================================
+// Can be done with simple functions
+async function f(){
+  return something
+}
+// Can call funtion with:
+f.then().catch();
+//=====================================================
