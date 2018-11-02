@@ -3,7 +3,7 @@
 
 // Item Controller
 const ItemCtrl = (function () {
-  // Item COnstructor
+  // Item Constructor
   const Item = function (id, name, calories) {
     this.id = id;
     this.name = name;
@@ -37,10 +37,8 @@ const ItemCtrl = (function () {
 
       // Calories to number
       let calories = parseInt(calories);
-
       // Create a new item
       newItem = new Item(id, name, calories);
-
       // Add to items array
       data.items.push(newItem)
 
